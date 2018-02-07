@@ -1,0 +1,13 @@
+body{
+  margin: 0 auto;
+}
+header{
+  padding: 1vh;
+}
+button{
+  margin-top: 1vh;
+}
+#map{
+  width: 100%;
+  height: 80vh;
+}
